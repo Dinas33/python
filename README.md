@@ -20,3 +20,5 @@ This repository contains solutions to various Python programming problems. Each 
 3. Run a file:
 
 ## Author
+
+GitHub: [Dinas33](https://github.com/Dinas33)
